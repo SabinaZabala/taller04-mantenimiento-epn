@@ -7,8 +7,6 @@ __pycache__/
 venv/
 .venv/
 .env
-*.sqlite
-*.db
 .vscode/
 .idea/
 *.iml
